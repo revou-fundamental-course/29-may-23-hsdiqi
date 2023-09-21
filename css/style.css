@@ -108,7 +108,7 @@ body{
     border: 1px solid black;
     background-position: center;
     background-size: cover;
-    background-image: url("/img/Mojokerto.jpg");
+    background-image: url("../img/Mojokerto.jpg");
 }
 .headquarter-image-2{
     height: 5em;
@@ -117,7 +117,7 @@ body{
     border: 1px solid black;
     background-position: center;
     background-size: cover;
-    background-image: url("/img/Surabaya.jpg");
+    background-image: url("../img/Surabaya.jpg");
 }
 .headquarter-image-3{
     height: 5em;
@@ -126,7 +126,7 @@ body{
     border: 1px solid black;
     background-position: center;
     background-size: cover;
-    background-image: url("/img/sidoarjo.jpg");
+    background-image: url("../img/sidoarjo.jpg");
 }
 .message-us{
     display: flex;
